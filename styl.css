@@ -21,6 +21,7 @@ body{
 }
 
 #iframeMapa{
-    width: 25%;
-    height: 35%;
+  object-fit: cover;
+  width: 99%;
+  height: 99%;
 }
